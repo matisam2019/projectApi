@@ -1,0 +1,140 @@
+2025-03-03 00:41:33,632 - INFO - Ejecutando p1.py a las 00:41:33
+2025-03-03 11:31:47,476 - INFO - Ejecutando p1.py a las 11:31:47
+2025-03-03 11:58:43,936 - INFO - Ejecutando p1.py a las 11:58:43
+2025-03-03 11:59:13,945 - INFO - Ejecutando p2.py a las 11:59:13
+2025-03-03 11:59:43,987 - INFO - Ejecutando p3.py a las 11:59:43
+2025-03-03 12:43:34,422 - INFO - Ejecutando p1.py a las 12:43:34
+2025-03-03 12:44:14,456 - INFO - Ejecutando p2.py a las 12:44:14
+2025-03-03 12:44:54,473 - INFO - Ejecutando p3.py a las 12:44:54
+2025-03-03 12:55:15,498 - INFO - Ejecutando p1.py a las 12:55:15
+2025-03-03 12:55:55,558 - INFO - Ejecutando p2.py a las 12:55:55
+2025-03-03 12:56:35,564 - INFO - Ejecutando p3.py a las 12:56:35
+2025-03-03 13:10:40,017 - INFO - Ejecutando p1.py a las 13:10:40
+2025-03-03 13:11:20,045 - INFO - Ejecutando p2.py a las 13:11:20
+2025-03-03 13:12:00,063 - INFO - Ejecutando p3.py a las 13:12:00
+2025-03-03 13:16:27,421 - INFO - p1.py ejecutado correctamente.
+2025-03-03 13:17:01,134 - INFO - p2.py ejecutado correctamente.
+2025-03-03 13:18:04,031 - INFO - p3.py ejecutado correctamente.
+2025-03-03 13:18:04,046 - INFO - Todos los scripts ejecutados.
+2025-03-03 13:29:36,673 - INFO - Ejecutando p1.py a las 13:29:36
+2025-03-03 13:30:16,695 - INFO - Ejecutando p2.py a las 13:30:16
+2025-03-03 13:30:56,691 - INFO - Ejecutando p3.py a las 13:30:56
+2025-03-03 13:35:19,918 - INFO - p1.py ejecutado correctamente.
+2025-03-03 13:35:58,634 - INFO - p2.py ejecutado correctamente.
+2025-03-03 13:36:28,942 - INFO - p3.py ejecutado correctamente.
+2025-03-03 13:36:28,962 - INFO - Todos los scripts ejecutados.
+2025-03-03 14:41:44,542 - INFO - Ejecutando p1.py a las 14:41:44
+2025-03-03 14:42:24,573 - INFO - Ejecutando p2.py a las 14:42:24
+2025-03-03 14:43:53,424 - INFO - Ejecutando p1.py a las 14:43:53
+2025-03-03 14:44:33,453 - INFO - Ejecutando p2.py a las 14:44:33
+2025-03-03 14:45:13,462 - INFO - Ejecutando p3.py a las 14:45:13
+2025-03-03 14:49:37,582 - INFO - p1.py ejecutado correctamente.
+2025-03-03 14:50:12,660 - INFO - p2.py ejecutado correctamente.
+2025-03-03 14:50:46,630 - INFO - p3.py ejecutado correctamente.
+2025-03-03 14:50:46,645 - INFO - Todos los scripts ejecutados.
+2025-03-04 19:41:21,363 - INFO - Ejecutando p1.py a las 19:41:21
+2025-03-04 19:42:01,731 - INFO - Ejecutando p2.py a las 19:42:01
+2025-03-04 19:42:41,588 - INFO - Ejecutando p3.py a las 19:42:41
+2025-03-04 19:42:53,114 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-04 19:44:14,244 - INFO - Ejecutando p1.py a las 19:44:14
+2025-03-04 19:44:54,271 - INFO - Ejecutando p2.py a las 19:44:54
+2025-03-04 19:45:34,290 - INFO - Ejecutando p3.py a las 19:45:34
+2025-03-06 12:06:09,508 - INFO - Ejecutando p1.py a las 12:06:09
+2025-03-06 12:06:51,921 - INFO - Ejecutando p2.py a las 12:06:51
+2025-03-06 12:07:31,819 - INFO - Ejecutando p3.py a las 12:07:31
+2025-03-06 12:12:20,709 - INFO - p1.py ejecutado correctamente.
+2025-03-06 12:12:54,818 - INFO - p2.py ejecutado correctamente.
+2025-03-06 16:51:09,489 - INFO - Ejecutando p1.py a las 16:51:09
+2025-03-06 16:51:49,616 - INFO - Ejecutando p2.py a las 16:51:49
+2025-03-06 16:52:17,014 - INFO - Ejecutando p1.py a las 16:52:17
+2025-03-06 18:16:32,272 - INFO - Ejecutando p1.py a las 18:16:32
+2025-03-06 18:17:12,330 - INFO - Ejecutando p2.py a las 18:17:12
+2025-03-06 18:17:52,313 - INFO - Ejecutando p3.py a las 18:17:52
+2025-03-06 18:22:39,295 - INFO - p1.py ejecutado correctamente.
+2025-03-06 18:22:59,764 - INFO - p2.py ejecutado correctamente.
+2025-03-06 18:23:38,773 - INFO - p3.py ejecutado correctamente.
+2025-03-06 18:23:38,789 - INFO - Todos los scripts ejecutados.
+2025-03-07 11:05:33,395 - INFO - Ejecutando p1.py a las 11:05:33
+2025-03-07 11:06:13,475 - INFO - Ejecutando p2.py a las 11:06:13
+2025-03-07 11:06:23,170 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-07 11:06:52,608 - INFO - Ejecutando p1.py a las 11:06:52
+2025-03-07 11:07:31,362 - INFO - Ejecutando p1.py a las 11:07:31
+2025-03-07 11:08:11,373 - INFO - Ejecutando p2.py a las 11:08:11
+2025-03-07 11:08:51,383 - INFO - Ejecutando p3.py a las 11:08:51
+2025-03-07 11:14:32,703 - INFO - p1.py ejecutado correctamente.
+2025-03-07 11:15:11,976 - INFO - p2.py ejecutado correctamente.
+2025-03-07 11:15:44,994 - INFO - p3.py ejecutado correctamente.
+2025-03-07 11:15:45,034 - INFO - Todos los scripts ejecutados.
+2025-03-07 19:16:37,897 - INFO - Ejecutando p1.py a las 19:16:37
+2025-03-07 19:16:37,940 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-07 19:19:00,250 - INFO - Ejecutando p1.py a las 19:19:00
+2025-03-07 19:19:00,299 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-07 19:19:40,320 - INFO - Ejecutando p2.py a las 19:19:40
+2025-03-07 19:20:20,376 - INFO - Ejecutando p3.py a las 19:20:20
+2025-03-07 19:21:59,297 - INFO - Ejecutando p1.py a las 19:21:59
+2025-03-07 19:21:59,361 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-07 19:26:08,423 - INFO - Ejecutando p1.py a las 19:26:08
+2025-03-07 19:26:48,533 - INFO - Ejecutando p2.py a las 19:26:48
+2025-03-07 19:27:15,791 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-07 19:29:11,643 - INFO - Ejecutando p1.py a las 19:29:11
+2025-03-07 19:30:21,463 - INFO - Ejecutando p1.py a las 19:30:21
+2025-03-07 19:34:26,907 - INFO - Ejecutando p1.py a las 19:34:26
+2025-03-07 19:35:46,923 - INFO - Ejecutando p2.py a las 19:35:46
+2025-03-07 19:35:56,726 - ERROR - Error al ejecutar p1.py: Command '['python', 'p1.py']' returned non-zero exit status 1.
+2025-03-07 19:39:17,037 - INFO - Ejecutando p1.py a las 19:39:17
+2025-03-07 19:46:01,671 - INFO - Ejecutando p1.py a las 19:46:01
+2025-03-07 19:52:42,022 - INFO - Ejecutando p1.py a las 19:52:42
+2025-03-07 19:54:02,125 - INFO - Ejecutando p2.py a las 19:54:02
+2025-03-07 19:54:54,036 - ERROR - Error al ejecutar p2.py: Command '['python', 'p2.py']' returned non-zero exit status 1.
+2025-03-07 19:55:20,829 - INFO - Ejecutando p1.py a las 19:55:20
+2025-03-07 19:56:40,877 - INFO - Ejecutando p2.py a las 19:56:40
+2025-03-07 19:58:00,932 - INFO - Ejecutando p3.py a las 19:58:00
+2025-03-07 20:02:57,328 - INFO - p1.py ejecutado correctamente.
+2025-03-07 20:04:07,925 - INFO - p2.py ejecutado correctamente.
+2025-03-07 20:05:29,746 - INFO - p3.py ejecutado correctamente.
+2025-03-07 20:05:29,789 - INFO - Todos los scripts ejecutados.
+2025-03-10 10:33:08,113 - INFO - Ejecutando p1.py a las 10:33:08
+2025-03-10 10:34:28,138 - INFO - Ejecutando p2.py a las 10:34:28
+2025-03-10 10:35:48,150 - INFO - Ejecutando p3.py a las 10:35:48
+2025-03-10 10:40:08,102 - INFO - p1.py ejecutado correctamente.
+2025-03-10 10:41:21,099 - INFO - p2.py ejecutado correctamente.
+2025-03-10 10:42:40,843 - INFO - p3.py ejecutado correctamente.
+2025-03-10 10:42:40,859 - INFO - Todos los scripts ejecutados.
+2025-03-10 14:49:32,874 - INFO - Ejecutando p1.py a las 14:49:32
+2025-03-10 14:50:48,582 - INFO - Ejecutando p1.py a las 14:50:48
+2025-03-10 14:51:31,149 - INFO - Ejecutando p1.py a las 14:51:31
+2025-03-10 14:57:08,336 - INFO - Ejecutando p1.py a las 14:57:08
+2025-03-10 14:58:28,349 - INFO - Ejecutando p2.py a las 14:58:28
+2025-03-10 14:59:22,294 - ERROR - Error al ejecutar p2.py: Command '['python', 'p2.py']' returned non-zero exit status 1.
+2025-03-10 14:59:48,366 - INFO - Ejecutando p3.py a las 14:59:48
+2025-03-10 15:12:54,821 - INFO - Ejecutando p1.py a las 15:12:54
+2025-03-10 15:28:16,850 - INFO - Ejecutando p1.py a las 15:28:16
+2025-03-10 15:33:02,485 - INFO - Ejecutando p1.py a las 15:33:02
+2025-03-10 15:34:22,500 - INFO - Ejecutando p2.py a las 15:34:22
+2025-03-10 16:12:48,327 - INFO - Ejecutando p1.py a las 16:12:48
+2025-03-10 16:13:33,367 - INFO - Ejecutando p1.py a las 16:13:33
+2025-03-10 16:14:29,673 - INFO - Ejecutando p1.py a las 16:14:29
+2025-03-10 16:15:50,457 - INFO - Ejecutando p2.py a las 16:15:50
+2025-03-10 16:17:10,893 - INFO - Ejecutando p3.py a las 16:17:10
+2025-03-10 17:32:50,178 - INFO - Ejecutando p1.py a las 17:32:50
+2025-03-10 17:34:10,206 - INFO - Ejecutando p2.py a las 17:34:10
+2025-03-10 17:35:30,203 - INFO - Ejecutando p3.py a las 17:35:30
+2025-03-10 17:36:04,346 - ERROR - Error al ejecutar p3.py: Command '['python', 'p3.py']' returned non-zero exit status 1.
+2025-03-10 17:39:43,009 - INFO - p1.py ejecutado correctamente.
+2025-03-10 17:40:49,285 - INFO - p2.py ejecutado correctamente.
+2025-03-10 17:40:49,311 - INFO - Todos los scripts ejecutados.
+2025-03-11 10:40:51,788 - INFO - Ejecutando p1.py a las 10:40:51
+2025-03-11 10:41:31,821 - INFO - Ejecutando p2.py a las 10:41:31
+2025-03-11 10:42:27,780 - INFO - Ejecutando p1.py a las 10:42:27
+2025-03-11 10:43:07,796 - INFO - Ejecutando p2.py a las 10:43:07
+2025-03-11 10:43:47,810 - INFO - Ejecutando p3.py a las 10:43:47
+2025-03-11 10:44:27,813 - INFO - Ejecutando p4.py a las 10:44:27
+2025-03-11 10:45:10,472 - INFO - Ejecutando p5.py a las 10:45:10
+2025-03-11 10:45:48,094 - INFO - Ejecutando p6.py a las 10:45:48
+2025-03-11 10:46:23,806 - INFO - p1.py ejecutado correctamente.
+2025-03-11 10:47:04,151 - INFO - p2.py ejecutado correctamente.
+2025-03-11 10:47:39,360 - INFO - p3.py ejecutado correctamente.
+2025-03-11 10:48:22,369 - INFO - p4.py ejecutado correctamente.
+2025-03-11 10:48:58,288 - INFO - p5.py ejecutado correctamente.
+2025-03-11 10:49:38,779 - INFO - p6.py ejecutado correctamente.
+2025-03-11 10:49:38,799 - INFO - Todos los scripts ejecutados.
